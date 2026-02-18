@@ -22,12 +22,6 @@ I'm a Fullstack developer.
 </p>        
 <!--- stats (end) -->
 
-## Skills
-
-- **Languages**: Clang, Java, Kotlin, Dart, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Spring, Flutter
-- **Tools**: Git, Docker, VS Code, Kubernetes, Linux, Clion, Intellij IDEA
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -41,7 +35,11 @@ I'm a Fullstack developer.
   </a>
 </p>
 
-## Connect with me
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">## Connect with me</h2></summary>
+  </ul>
+</div>
 
 - [X](https://www.x.com/earth_ryzen5)
 - [gitlab](https://gitlab.com/dev_earth)
