@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"># Hello, I'm EARTH! 👋</h1></summary>
+    <summary><h1 style="display: inline-block">Hello, I'm EARTH! 👋</h1></summary>
   </ul>
 </div>
 I'm a Fullstack developer.
@@ -37,7 +37,7 @@ I'm a Fullstack developer.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">## Connect with me</h2></summary>
+    <summary><h2 style="display: inline-block">Connect with me</h2></summary>
   </ul>
 </div>
 
