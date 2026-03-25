@@ -19,7 +19,7 @@
   <br>
 
   <h3>SKILLS</h3>
-  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,express,figma,firebase,redis,github,html,java,js,md,materialui,nginx,mongodb,mysql,nodejs,py,react,vscode,kubernetes,docker,c,kotlin,dart,flutter,androidstudio,arduino,blender,clion,codepen,debian,bots,electron,gcp,gitlab,gmail,gradle,graphql,heroku,idea,jenkins,jquery,kafka,kali,laravel,latex,linux,maven,mongodb,mysql,npm,redis,redhat,ros,ubuntu,vite&perline=14" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,express,redis,github,html,java,js,md,nginx,mysql,nodejs,py,react,kubernetes,c,kotlin,dart,flutter,clion,bots,electron,gitlab,gradle,graphql,idea,kali,latex,linux,npm,redhat,ros,ubuntu,vite&perline=14" alt="My Skills" />
 
   <br><br>
 
