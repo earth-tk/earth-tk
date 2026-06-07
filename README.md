@@ -11,7 +11,7 @@
         <img src="https://streak-stats.demolab.com?user=earth-tk&theme=radical&mode=weekly&hide_border=true](https://streak-stats.demolab.com?user=earth-tk&theme=merko&hide_border=true" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=earth-tk&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/?username=earth-tk&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Top Langs" />
       </td>
     </tr>
   </table>
