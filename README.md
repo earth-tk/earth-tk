@@ -12,7 +12,7 @@
       </td>
       <td width="50%" align="center">
         <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=earth-tk&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=true#gh-light-mode-only"
+            src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=earth-tk&layout=compact&langs_count=4&theme=dark"
             alt="My Language stats"
             width="280"
           />
