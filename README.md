@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=earth-tk&theme=mork&mode=weekly&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=earth-tk&theme=merko&mode=weekly&hide_border=true" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
         <img
