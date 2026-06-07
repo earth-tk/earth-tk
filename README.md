@@ -10,7 +10,7 @@
   <!-- ステータスカード：テーブルを排除し、高さを揃えて完全ボーダーレスに横並び -->
   <img src="https://streak-stats.demolab.com?user=earth-tk&theme=merko&mode=weekly&hide_border=true" alt="GitHub Streak" height="165" />
   &nbsp;&nbsp;
-  <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=earth-tk&theme=merko&layout=compact&hide_border=true" alt="My Language stats" height="165" />
+  <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=earth-tk&theme=merko&layout=compact&hide_border=true" alt="My Language stats" height="200" />
 
   <br><br><br>
 
