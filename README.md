@@ -1,25 +1,48 @@
 <div align="center">
-  <h1>Hello, I'm EARTH! 👋</h1>
-  <p><strong>Fullstack Engineer | Robotics Developer | AI Systems</strong></p>
-  <p><i>Building the bridge between digital intelligence and the physical world.</i></p>
+  <!-- Matrixデジタルレイン風のヘッダー -->
+  <h1>&lt; <font color="#00FF41"><b>HELLO, I'M EARTH</b></font> /&gt;</h1>
+  
+  <p>
+    <strong><font size="5" color="#FFFFFF">Fullstack Engineer | Robotics Developer | AI Systems</font></strong><br>
+    <font size="3" color="#808080"><i>// From Web to Real-World Robotics</i></font>
+  </p>
 
-  <!-- 統計セクション -->
+  <hr size="1" color="#00FF41" width="80%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=earth-tk&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=earth-tk&theme=radical&hide_border=true" alt="Streak" />
-  
-  <br><br>
-  
-  <h3>🛠️ TECHNICAL STACK</h3>
-  <img src="https://skillicons.dev/icons?i=git,docker,postgres,express,redis,github,md,mysql,nodejs,react,kubernetes,clion,graphql,idea,kali,latex,npm,redhat,ros,ubuntu,vite" />
+
+  <!-- ステータスボード -->
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://streak-stats.demolab.com?user=earth-tk&theme=matrix&mode=weekly&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td width="50%" align="center" style="padding: 10px;">
+        <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=earth-tk&layout=compact&langs_count=10&theme=matrix" alt="Top Languages" width="300" />
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
-  <h3>📫 LET'S CONNECT</h3>
-  <a href="https://www.x.com/earth_ryzen5">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <!-- スキルセクション -->
+  <h3><font color="#00FF41">[</font> <b>CORE_SKILLS</b> <font color="#00FF41">]</font></h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,docker,postgres,express,redis,github,md,mysql,nodejs,react,kubernetes,clion,graphql,idea,kali,latex,npm,redhat,ros,ubuntu,vite&theme=dark&perline=11" alt="My Skills" />
+  </p>
+
+  <br><br>
+
+  <!-- コンタクト（マトリックスグリーン・モノクロ統一バッジ） -->
+  <h3><font color="#00FF41">[</font> <b>ESTABLISH_CONNECTION</b> <font color="#00FF41">]</font></h3>
+  
+  <a href="https://www.x.com/earth_ryzen5" target="_blank">
+    <img src="https://img.shields.io/badge/X_@earth__ryzen5-000000?style=for-the-badge&logo=x&logoColor=00FF41&labelColor=111111" alt="X (Twitter)" />
   </a>
-  <a href="https://gitlab.com/dev_earth">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  &nbsp;
+  <a href="https://gitlab.com/dev_earth" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab_dev__earth-000000?style=for-the-badge&logo=gitlab&logoColor=00FF41&labelColor=111111" alt="GitLab" />
   </a>
+
+  <br><br>
+  <hr size="1" color="#00FF41" width="30%">
 </div>
