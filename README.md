@@ -11,7 +11,11 @@
         <img src="https://streak-stats.demolab.com?user=earth-tk&theme=radical&mode=weekly&hide_border=true](https://streak-stats.demolab.com?user=earth-tk&theme=merko&hide_border=true" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=earth-tk" alt="Top Langs" />
+        <img
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=earth-tk&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos&disable_animations=true#gh-light-mode-only"
+            alt="My Language stats"
+            width="280"
+          />
       </td>
     </tr>
   </table>
